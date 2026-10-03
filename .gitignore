@@ -1,0 +1,13 @@
+# Build output
+firmware/build/
+firmware/test/host_game
+libero/build/
+*.vcd
+tb
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+scores.json
+build/
